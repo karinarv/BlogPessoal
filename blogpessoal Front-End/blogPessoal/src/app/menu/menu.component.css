@@ -2,7 +2,6 @@
     text-decoration: none;
 }
 .navbar{
-    background-color: rgb(21, 56, 56) !important;
     display: flex;
     flex-direction: row;
     padding: 5px 10px;
